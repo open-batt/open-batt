@@ -32,7 +32,7 @@ Manage your rechargeable battery properly so you can safely use it in your quadc
 | OpenBMS Firmware (STM32) | 🚧 In progress |
 | Desktop App (OpenBMS Studio) |  🚧 In progress |
 | BMS, Test Bench & Battery Tests |  🚧 In progress |
-| Revision B (Hardware improvements) |  🔜 Planned |
+| Revision B (Hardware improvements) |  ✅ Done |
 | Documentation & Final Release | ❌ Not started |
 
 ## ❤️ Funding
