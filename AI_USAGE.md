@@ -13,7 +13,7 @@ This file states how AI tools were used in the OpenBatt projects, so users and r
 
 ## How AI was used
 
-AI was used as an assistant, not as an author on its own. The OpenBatt team set the goals, made every design decision, and reviewed every change before it was kept.
+AI was used as an assistant, not as an author on its own. The OpenBatt team set the goals, made every design decision, and reviewed every change before it was kept. AI assisting did not change program or functional logic.
 
 In firmware development AI was used for:
 
