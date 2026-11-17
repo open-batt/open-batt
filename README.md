@@ -97,6 +97,10 @@ After both learning tests OpenBMS has a model of your pack, so you never need to
 | BMS, Test Bench & Battery Tests | 🚧 In progress |
 | Documentation & Final Release | 🚧 In progress |
 
+## 🤖 AI usage
+
+AI tools were used as an assistant in this project, for code cleanup, code reviews, documentation and analysis. See [AI_USAGE.md](AI_USAGE.md) for details.
+
 ## ❤️ Funding
 
 This project is funded through [NGI0 Commons Fund](https://nlnet.nl/commonsfund), a fund established by [NLnet](https://nlnet.nl) with financial support from the European Commission's [Next Generation Internet](https://ngi.eu) program. 
