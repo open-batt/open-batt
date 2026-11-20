@@ -29,6 +29,10 @@ A 600 W resistive load, adjustable from 1 to 20 Ω with jumpers, with cooling fa
 
 ![OpenBMS Test Bench](assets/image_1_labelled.jpg)
 
+## OpenBMS Capatibilites, Real Data and Test Report
+
+Full hardware and firmware OpenBMS test report. Check how it works: [OpenBMS Test Report](assets/OpenBMS_Test_Report.pdf)
+
 ## How To Use It? (4 steps)
 
 A short path from a bare board to a battery with accurate state of charge. The full guide with every setting is on [openbatt.dev/get-started](https://openbatt.dev/get-started).
